@@ -1,6 +1,8 @@
 # Physical-statistical method to populate an ensemble of regional climate simulations
 
-The tools and their evaluation are described in Jourdain et al. (in preparation).
+[![DOI](https://zenodo.org/badge/683976015.svg)](https://zenodo.org/doi/10.5281/zenodo.13756239)
+
+The tools and their evaluation are described in Jourdain et al. (2024).
 
 Note that all RCM files (inputs and outputs) are in the form of a climatology and anomalies with respect to this climatology.
 
